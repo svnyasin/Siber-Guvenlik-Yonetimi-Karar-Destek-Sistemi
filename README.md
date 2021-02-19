@@ -56,13 +56,13 @@ amacıyla oluşturulmuştur.
 
 4.  **Veritabanı Tasarımı**
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image18.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image18.png)
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image1.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image1.png)
 
 **ER Diyagramı**
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image7.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image7.png)
 
 5.  **Dashboard Tasarımı**
 
@@ -72,43 +72,43 @@ giriş yapılamamaktadır, bu ekrandan yeni hesap oluşturulabilir ve bu
 hesapla giriş yapılabilir. Yeni hesapların parolaları şifrelenerek
 veritabanına eklenir.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image27.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image27.png)
 
 Giriş yapıldıktan sonra kullanıcıya sistem hakkında çeşitli analizler
 sunan bir anasayfa kullanıcıyı karşılar. Sol kısımdaki sidebar ile
 sayfalar arasında gezebilir, sağ üstteki çıkış butonu ile oturumunu
 sonlandırabilir.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image26.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image26.png)
 
 Anasayfanın üst kısmında şirketin sahip olduğu ağ altyapısının
 özellikleri ve sistem hakkında genel risk bilgisi yer alır.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image13.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image13.png)
 
 Altında ise ağ içindeki cihazların koşturdukları işletim sistemlerinin
 oranları ve bu işletim sistemlerinin yıllara göre yeni zafiyet sayıları
 yer alır.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image16.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image16.png)
 
 Bir altta ise kullanıcının notlar alabilmesi için bir yapılacaklar kısmı
 ve sağında ise sistemin en çok zafiyete sahip makinalarını görebileceği
 bir grafik
-bulunmakta.![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image15.png)
+bulunmakta.![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image15.png)
 
 Karar alıcı ana ekrana baktıktan sonra şirketin sahip olduğu ağ
 altyapısı hakkında bilgi edinir, artık hangi işletim sistemini tercih
 etmesi gerektiği gelecekte hangi işletim sistemine daha fazla ağırlık
 vermesi gerektiğini ve en riskli cihazlar hakkında bilgi sahibidir.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image23.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image23.png)
 
 Karar vericiyi ikinci sayfada ağ altyapısının dünya üzerinde hangi
 ülkelerde cihazlara sahip olduğuna ve o ülkelerin risk değerleri
 hakkında bilgi alabileceği "Konumlar" sayfası karşılar.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image22.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image22.png)
 
 Bir sonraki "Cihazlar" sayfasında karar verici sahip olunan tüm
 cihazları tüm bilgileriyle beraber tablo olarak görüntüleyebilir,
@@ -116,14 +116,14 @@ dilerse bir önceki sayfadan sahip olduğu konum bilgileriyle belli bir
 cihazı seçerek o cihazın üzerinde koşan zafiyet, program ve işletim
 sistemlerini görebilir.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image4.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image4.png)
 
 "Zafiyetler" sayfasında kullanıcı belli bir zafiyet kodu hakkında
 bilgileri bulabilir ve sayfanın sağ kısmında sistemdeki en riskli
 yazılımları sıralanmış şekilde görerek hangi yazılımları hangisine
 tercih edeceği hakkında fikir sahibi olabilir.
 
-![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder\media\image8.png)
+![](https://github.com/svnyasin/Siber-Guvenlik-Yonetimi-Karar-Destek-Sistemi/blob/main/myMediaFolder/media/image8.png)
 
 "Karşılaştırma" ekranında ise karar verici önceki sayfalarda bilgi
 sahibi olduğu riskli konumlardaki riskli yazılımlar hakkında risk skoru
